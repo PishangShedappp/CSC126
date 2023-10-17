@@ -1,1 +1,1 @@
-# CSC126
+# CSC126 Tutorial
