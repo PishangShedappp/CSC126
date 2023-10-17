@@ -1,1 +1,116 @@
+<h1 align="center">Sequence Structure</h1>
 
+## 📚 Chapter 2 Tutorial 1 (1a)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/19ff0968-fc44-4080-8bbb-d58e404848fb" width="800">
+</p>
+
+- Jawapan aku:
+```
+double discount = 0.2;
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (1b)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/bfe1c7d1-f3d7-43ba-932b-beef7d43721e" width="800">
+</p>
+
+- Jawapan aku:
+```
+const string UNI = "UiTM";
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (2a)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/6898854b-a29c-4cad-8619-a8f89c964a60" width="800">
+</p>
+
+- Jawapan aku:
+```
+char status;
+int marks;
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (2b)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/3d06bf26-3719-4555-a8fe-e765e2522073" width="800">
+</p>
+
+- Jawapan aku:
+```
+(aku tak pasti)
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (2c)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/0f556257-9ce2-48d2-a7d3-cec99dbb02ca" width="800">
+</p>
+
+- Jawapan aku:
+```
+float initial = 100;
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (3)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/e3f32ee0-f35c-4e0f-b7d4-d1b1b523aad5" width="800">
+</p>
+
+Aku ada dua jawapan btw:
+- Jawapan 1: 
+<a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(1).cpp">Full jawapan 1</a>
+```
+int first = 0;
+int second;
+int third;
+int multiply;
+int devide;
+int fits;
+cout << "\nSecond variable: ";
+cin >> second;
+cout << "\nThird variable: ";z
+cin >> third;
+multiply = third*7;
+devide = multiply/second;
+fits = devide;
+cout << fits;
+```
+
+- Jawapan 2: 
+<a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(2).cpp">Full jawapan 2</a>
+```
+int first = 0;
+int second;
+int third;
+int multiply;
+int devide;
+cout << "\nSecond variable: ";
+cin >> second;
+cout << "\nThird variable: ";z
+cin >> third;
+multiply = third*7;
+devide = multiply/second;
+first = devide;
+cout << first;
+```
