@@ -7,7 +7,7 @@
 </p>
 
 - Jawapan aku:
-```
+```cpp
 double discount = 0.2;
 ```
 
@@ -21,7 +21,7 @@ double discount = 0.2;
 </p>
 
 - Jawapan aku:
-```
+```cpp
 const string UNI = "UiTM";
 ```
 
@@ -35,7 +35,7 @@ const string UNI = "UiTM";
 </p>
 
 - Jawapan aku:
-```
+```cpp
 char status;
 int marks;
 ```
@@ -50,7 +50,7 @@ int marks;
 </p>
 
 - Jawapan aku:
-```
+```cpp
 (aku tak pasti)
 ```
 
@@ -64,7 +64,7 @@ int marks;
 </p>
 
 - Jawapan aku:
-```
+```cpp
 float initial = 100;
 ```
 
@@ -80,7 +80,7 @@ float initial = 100;
 Aku ada dua jawapan btw:
 - Jawapan 1: 
 <a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(1).cpp">Full jawapan 1</a>
-```
+```cpp
 int first = 0;
 int second;
 int third;
@@ -99,7 +99,7 @@ cout << fits;
 
 - Jawapan 2: 
 <a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(2).cpp">Full jawapan 2</a>
-```
+```cpp
 int first = 0;
 int second;
 int third;
