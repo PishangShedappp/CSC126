@@ -23,6 +23,9 @@ int main() {
 }
 ```
 
+<br/>
+&nbsp; 
+
 ## 📚 Chapter 1 Tutorial PART2 (2)
 <p align="left">
   <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/38d29104-d834-40e0-b153-e2fa394a97f7" width="800">
