@@ -6,6 +6,7 @@
 
 ## 📂 Chapter 1 Tutorial
 (Not Available)
+- <a href="https://github.com/PishangShedappp/CSC126/tree/main/CHAPTER1/PART2/CPP">Jawapan C++ aku</a>
 
 ## 📂 Chapter 2 Tutorial
 Chapter 2: Sequence Structure
