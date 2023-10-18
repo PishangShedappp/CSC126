@@ -77,30 +77,13 @@ float initial = 100;
   <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/e3f32ee0-f35c-4e0f-b7d4-d1b1b523aad5" width="800">
 </p>
 
-Aku ada dua jawapan btw:
-- Jawapan 1: 
+- Jawapan aku: 
 <a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(1).cpp">Full jawapan 1</a>
 ```cpp
 int first = 0;
 int second, third
-double multiply, devide, fits;
-
-cout << "\nSecond variable: ";
-cin >> second;
-cout << "\nThird variable: ";z
-cin >> third;
-multiply = third*7;
-devide = multiply/second;
-fits = devide;
-cout << fits;
-```
-
-- Jawapan 2: 
-<a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(2).cpp">Full jawapan 2</a>
-```cpp
-int first = 0;
-int second, third
 double multiply, devide;
+const double result;
 
 cout << "\nSecond variable: ";
 cin >> second;
@@ -108,8 +91,8 @@ cout << "\nThird variable: ";z
 cin >> third;
 multiply = third*7;
 devide = multiply/second;
-first = devide;
-cout << first;
+result = devide;
+cout << result;
 ```
 
 <br/>
