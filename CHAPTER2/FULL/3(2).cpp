@@ -5,10 +5,7 @@ using namespace std;
 int main()
 {
 	int first = 0;
-	int second;
-	int third;
-	int multiply;
-	int devide;
+	int second, third, multiply, devide;
 	
 	cout << "\nSecond variable: ";
 	cin >> second;
