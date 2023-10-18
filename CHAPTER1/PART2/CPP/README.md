@@ -22,3 +22,30 @@ int main() {
 	cout << areaOfTheShadedRegion;
 }
 ```
+
+## 📚 Chapter 1 Tutorial PART2 (2)
+<p align="left">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/38d29104-d834-40e0-b153-e2fa394a97f7" width="800">
+</p>
+
+- Jawapan aku
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	double sideB, rad, square, shadedRegion;
+	
+	cout << "Side B: ";
+	cin >> sideB;
+	cout << "Radius: ";
+	cin >> rad;
+	
+	square = sideB * sideB;
+	shadedRegion = square - (4*((22/7)*(rad*rad)));
+	
+	cout << "Area of the square: " << square << endl;
+	cout << "Shaded Region: " << shadedRegion;
+}
+```
