@@ -46,7 +46,7 @@ int main() {
 	cin >> rad;
 	
 	square = sideB * sideB;
-	shadedRegion = square - (4*((22/7)*(rad*rad)));
+	shadedRegion = square - (4*(3.142*(rad*rad)));
 	
 	cout << "Area of the square: " << square << endl;
 	cout << "Shaded Region: " << shadedRegion;
