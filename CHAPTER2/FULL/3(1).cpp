@@ -5,11 +5,7 @@ using namespace std;
 int main()
 {
 	int first = 0;
-	int second;
-	int third;
-	int multiply;
-	int devide;
-	int fits;
+	int second, third, multiply, devide, fits;
 	
 	cout << "\nSecond variable: ";
 	cin >> second;
