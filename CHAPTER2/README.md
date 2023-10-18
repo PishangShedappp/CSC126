@@ -82,11 +82,9 @@ Aku ada dua jawapan btw:
 <a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(1).cpp">Full jawapan 1</a>
 ```cpp
 int first = 0;
-int second;
-int third;
-int multiply;
-int devide;
-int fits;
+int second, third
+double multiply, devide, fits;
+
 cout << "\nSecond variable: ";
 cin >> second;
 cout << "\nThird variable: ";z
@@ -101,10 +99,9 @@ cout << fits;
 <a href="https://github.com/PishangShedappp/CSC126/blob/main/CHAPTER2/FULL/3(2).cpp">Full jawapan 2</a>
 ```cpp
 int first = 0;
-int second;
-int third;
-int multiply;
-int devide;
+int second, third
+double multiply, devide;
+
 cout << "\nSecond variable: ";
 cin >> second;
 cout << "\nThird variable: ";z
@@ -113,4 +110,36 @@ multiply = third*7;
 devide = multiply/second;
 first = devide;
 cout << first;
+```
+
+<br/>
+&nbsp; 
+
+## 📚 Chapter 2 Tutorial 1 (4)
+- Soalan:
+<p align="center">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/f8fedf70-63fb-441f-af6f-dfb595145b37" width="800">
+</p>
+
+- Jawapan aku
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  int n1, n2, n3;
+  double everage;
+
+  cout << "n1 = ";
+  cin >> n1;
+  cout << "n2 = ";
+  cin >> n2;
+  cout << "n3 = ";
+  cin >> n3;
+  average = n1+n2+n3;
+  average = average/3;
+  cout << average;
+}
 ```
