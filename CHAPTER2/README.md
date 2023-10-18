@@ -117,8 +117,7 @@ int main()
   cin >> n2;
   cout << "n3 = ";
   cin >> n3;
-  average = n1+n2+n3;
-  average = average/3;
+  average = (n1+n2+n3)/3;
   cout << average;
 }
 ```
