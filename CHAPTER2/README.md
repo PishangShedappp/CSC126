@@ -82,16 +82,12 @@ float initial = 100;
 ```cpp
 int first = 0;
 int second, third
-double multiply, devide;
-const double result;
-
+const double result;	
 cout << "\nSecond variable: ";
 cin >> second;
 cout << "\nThird variable: ";z
 cin >> third;
-multiply = third*7;
-devide = multiply/second;
-result = devide;
+result = (third*7)/second;
 cout << result;
 ```
 
