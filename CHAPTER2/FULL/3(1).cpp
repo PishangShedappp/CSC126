@@ -6,14 +6,12 @@ int main()
 {
 	int first = 0;
 	int second, third
-	double multiply, devide, fits;
+	const double result;
 	
 	cout << "\nSecond variable: ";
 	cin >> second;
 	cout << "\nThird variable: ";z
 	cin >> third;
-	multiply = third*7;
-	devide = multiply/second;
-	fits = devide;
-	cout << fits;
+	result = (third*7)/second;
+	cout << result;
 }
