@@ -52,3 +52,17 @@ int main() {
 	cout << "Shaded Region: " << shadedRegion;
 }
 ```
+
+
+<br />
+&nbsp;
+
+## 📚 Chapter 1 Tutorial PART2 (3)
+<p align="left">
+  <img src="https://github.com/PishangShedappp/CSC126/assets/62550064/f1a607c9-1341-4a40-a19f-b674abad1677" width="800">
+</p>
+
+- Jawapan aku
+```cpp
+Tak siap lagi
+```
