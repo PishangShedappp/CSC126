@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 
 using namespace std;
@@ -20,4 +19,3 @@ int main() {
   cout << "   3) Multiplication : " << first_number << " * " << second_number << " = " << first_number*second_number << endl;
   cout << "   4) Division : " << first_number << " / " << second_number << " = " << first_number/second_number << endl;
 }
-```
