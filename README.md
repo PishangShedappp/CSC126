@@ -14,6 +14,4 @@ Chapter 2: Sequence Structure
 - <a href="https://github.com/PishangShedappp/CSC126/tree/main/CHAPTER2">Jawapan aku</a>
 
 ## 📂 Chapter 2 Lab 2
-Chapter 2: Sequence Structure
-- <a href="https://drive.google.com/file/d/1V3N1XCyCUqmgiV54rqneyn_FWFEI27Q7/view?usp=drive_web&authuser=1" target="_blank">File tutorial login pakai email student</a>
-- <a href="https://github.com/PishangShedappp/CSC126/tree/main/CHAPTER2_LAB2">Jawapan aku</a>
+- <a href="https://github.com/PishangShedappp/CSC126/tree/main/CHAPTER2_LAB2">IDK</a>
