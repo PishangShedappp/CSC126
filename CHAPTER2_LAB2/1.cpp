@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  int first_number, second_number;
+  int first_number, second_number, add, subs, multiply, divide;
 
   cout << "Please enter first number:     ";
   cin >> first_number;
@@ -14,8 +14,14 @@ int main() {
   cout << "Result for the following process as show below:" << endl;
   cout << "-----------------------------------------------" << endl;
   cout << endl;
-  cout << "   1) Addition : " << first_number << " + " << second_number << " = " << first_number+second_number << endl;
-  cout << "   2) Substraction : " << first_number << " - " << second_number << " = " << first_number-second_number << endl;
-  cout << "   3) Multiplication : " << first_number << " * " << second_number << " = " << first_number*second_number << endl;
-  cout << "   4) Division : " << first_number << " / " << second_number << " = " << first_number/second_number << endl;
+  
+  add = first_number+second_number;
+  subs = first_number-second_number;
+  multiply = first_number*second_number;
+  divide = first_number/second_number;
+  
+  cout << "   1) Addition : " << first_number << " + " << second_number << " = " << add << endl;
+  cout << "   2) Substraction : " << first_number << " - " << second_number << " = " << subs << endl;
+  cout << "   3) Multiplication : " << first_number << " * " << second_number << " = " << multiply << endl;
+  cout << "   4) Division : " << first_number << " / " << second_number << " = " << divide << endl;
 }
