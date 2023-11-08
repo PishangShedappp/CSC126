@@ -3,31 +3,31 @@
 using namespace std;
 
 int main() {
-  string movietitle;
-  char paymentcode;
-  int moviecode, numberofticket;
-  float newprice;
+  string movie_title;
+  char payment_code;
+  int movie_code, number_of_ticket;
+  float new_price;
 
   cout << "Enter movie code: ";
-  cin >> moviecode;
+  cin >> movie_code;
   cout << "Enter number of ticket: ";
-  cin >> numberofticket;
+  cin >> number_of_ticket;
 
-  if (moviecode == 1) {
-    newprice = numberofticket * 25;
-    movietitle = "Spiderman";
+  if (movie_code == 1) {
+      new_price = number_of_ticket * 25;
+    movie_title= "Spiderman";
   }
   else {
-    newprice = numberofticket * 20;
-    movietitle = "Frozen";
+      new_price = number_of_ticket * 20;
+    movie_title= "Frozen";
   }
 
   cout << "Enter payment code: ";
-  cin >> paymentcode;
-  if (paymentcode == 'C') {
-    newprice = newprice*1.10;
+  cin >> payment_code;
+  if (payment_code == 'C') {
+      new_price = new_price*1.10;
   }
 
-  cout << "Movie : " << movietitle << endl;
-  cout << "Price : RM" << newprice;
+  cout << "Movie : " << movie_title << endl;
+  cout << "Price : RM" << new_price;
 }
