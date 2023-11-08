@@ -28,6 +28,6 @@ int main() {
     newprice = newprice*1.10;
   }
 
-  cout << "Movie : RM" << movietitle << endl;
+  cout << "Movie : " << movietitle << endl;
   cout << "Price : RM" << newprice;
 }
