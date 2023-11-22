@@ -6,14 +6,14 @@ int main() {
   int n1, n2;
   string op;
 
-  cout << "Enter your input (Ex: 8 4): ";
+  cout << "Enter two numbers (Ex: 8 4): ";
   cin >> n1 >> n2;
 
   if (n1 <= 0 || n2 <= 0) {
     cout << "Error, number must more than 0";
   } 
   else {
-    cout << "Enter your operator: ";
+    cout << "Enter an operator (+,-,*,/): ";
     cin >> op;
 
     if (op == "+") {
